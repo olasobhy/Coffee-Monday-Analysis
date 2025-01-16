@@ -32,17 +32,17 @@ Analyzed average customer ratings and total customer counts to better understand
 
 ## Tools and Techniques
 
-# SQL
+## SQL
 
-#Excel
+## Excel
 
 Built an interactive dashboard to present:
 
 Key Features
 
-# Interactive Dashboard: Makes insights actionable and easy to interpret.
+##  Interactive Dashboard: Makes insights actionable and easy to interpret.
 
-# SQL Analysis: Comprehensive data extraction and analysis to uncover trends and patterns.
+## SQL Analysis: Comprehensive data extraction and analysis to uncover trends and patterns.
 
-# Strategic Insights: Data-driven recommendations for business expansion.
+## Strategic Insights: Data-driven recommendations for business expansion.
 
